@@ -1,0 +1,5 @@
+weight_names:
+  - w_list.0
+  - w_list.1
+  - rnn.weight_ih_l0
+  - rnn.weight_hh_l0

@@ -1,0 +1,3 @@
+weight_names:
+  - conv1.lin_l.weight
+  - conv1.lin_r.weight

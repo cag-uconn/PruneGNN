@@ -1,0 +1,3 @@
+weight_names:
+  - conv1.nn.weight
+  - conv2.nn.weight
