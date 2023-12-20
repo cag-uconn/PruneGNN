@@ -1,6 +1,5 @@
 # PruneGNN
-This appendix describes the process of acquiring a subset of experimental results represented in the paper "PruneGNN: An Optimized Algorithm-Hardware
-Framework for Graph Neural Network Pruning (HPCA 2024)". The artifacts include the implementations of the proposed sparse training algorithm and the LASSO regression-based pruning algorithm for GNN sparsification during training for various GNN models on real-world graphs, as well as the performance evaluation of pruned GNN inference using cuSPARSE and Prune-SpMM kernels.
+This appendix describes the process of acquiring a subset of experimental results represented in the paper "PruneGNN: Algorithm-Architecture Pruning Framework for Graph Neural Network Acceleration (HPCA 2024)". The artifacts include the implementations of the proposed sparse training algorithm and the LASSO regression-based pruning algorithm for GNN sparsification during training for various GNN models on real-world graphs, as well as the performance evaluation of pruned GNN inference using cuSPARSE and Prune-SpMM kernels.
 
 
 ## Requirements
